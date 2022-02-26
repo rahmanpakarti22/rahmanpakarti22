@@ -19,3 +19,8 @@ Currently learn about mobile development, but I love learn new thing in programm
     - 👯 I’m looking to collaborate on Mobile Apps. </br>
     - 😄 Pronouns: He/Him </br>
 </details>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rahmanpakarti&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti&layout=compact" height=180 />
+</p>
