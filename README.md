@@ -36,4 +36,4 @@ Currently learn about mobile development, but I love learn new thing in programm
 </p>
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti22&layout=compact"/> 
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti22&layout=compact"/> 
