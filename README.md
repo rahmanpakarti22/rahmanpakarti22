@@ -22,5 +22,5 @@ Currently learn about mobile development, but I love learn new thing in programm
 
 ### Let's connect!
 <p>
-    <a href="linkedin.com/in/auliya-rahman-p-48b7ab218" target="blank"><img src="https://img.shields.io/badge/Auliya_Rahman_Pakarti-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/auliya-rahman-p-48b7ab218" target="blank"><img src="https://img.shields.io/badge/Auliya_Rahman_Pakarti-30302f?style=flat&logo=linkedin" /></a>
 </p>
