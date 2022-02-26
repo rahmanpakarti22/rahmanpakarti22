@@ -25,6 +25,7 @@ Currently learn about mobile development, but I love learn new thing in programm
     <a href="https://www.linkedin.com/in/auliya-rahman-p-48b7ab218" target="blank"><img src="https://img.shields.io/badge/Linkedin-30302f?style=flat&logo=linkedin" /></a>
     <a href="mailto:rahmanpakarti221@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email_-30302f?style=flat&logo=gmail" /></a>
     <a href="https://www.instagram.com/willbe_mann/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://www.facebook.com/auliya.rahmanp" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=facebook" /></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical) 
