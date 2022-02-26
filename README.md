@@ -9,7 +9,7 @@ Currently learn about mobile development, but I love learn new thing in programm
     <img src="https://img.shields.io/badge/Code-kotlin-blue?&logo=kotlin" />
     <img src="https://img.shields.io/badge/IDE-android studio-blue?&logo=android studio" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img align="buttom" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/IDE-figma-blue?&logo=Figma" />
   
 </p>
 
