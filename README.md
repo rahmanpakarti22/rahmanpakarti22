@@ -35,5 +35,5 @@ Currently learn about mobile development, but I love learn new thing in programm
     <a href="https://www.facebook.com/auliya.rahmanp" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
 </p>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical" />
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti22&layout=compact"/> 
