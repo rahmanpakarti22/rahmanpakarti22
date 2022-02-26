@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there , I'm Auliya Rahman Pakarti!
+Currently learn about mobile development, but I love learn new thing in programming such as flutter.  
 
-<!--
-**rahmanpakarti22/rahmanpakarti22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/OS-ubuntu-blue?&logo=ubuntu" />
+    <img src="https://img.shields.io/badge/Code-java-blue?&logo=java" />
+    <img src="https://img.shields.io/badge/Code-kotlin-blue?&logo=kotlin" />
+    <img src="https://img.shields.io/badge/IDE-android studio-blue?&logo=android studio" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently undgraduated student at Institut Teknologi Telkom Surabaya </br>
+    - 🌱 I’m currently learning java, kotlin, dart and UIKit </br>
+    - 👯 I’m looking to collaborate on Mobile Apps. </br>
+    - 😄 Pronouns: He/Him </br>
+</details>
