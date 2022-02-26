@@ -28,4 +28,3 @@ Currently learn about mobile development, but I love learn new thing in programm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti22&layout=compact)](https://github.com/rahmanpakarti22/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti22&hide=javascript,html)](https://github.com/rahmanpakarti22/github-readme-stats)
