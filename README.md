@@ -5,12 +5,17 @@ Currently learn about mobile development, but I love learn new thing in programm
 <p>
     <img src="https://img.shields.io/badge/OS-windows-blue?&logo=windows" />
     <img src="https://img.shields.io/badge/OS-ubuntu-blue?&logo=ubuntu" />
-    <img src="https://img.shields.io/badge/Code-java-blue?&logo=java" />
-    <img src="https://img.shields.io/badge/Code-kotlin-blue?&logo=kotlin" />
     <img src="https://img.shields.io/badge/IDE-android studio-blue?&logo=android studio" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Design-figma-blue?&logo=Figma" />
   
+</p>
+
+### Programming Language:
+<p>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ### Stats:
@@ -30,5 +35,5 @@ Currently learn about mobile development, but I love learn new thing in programm
     <a href="https://www.facebook.com/auliya.rahmanp" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti22&layout=compact)](https://github.com/rahmanpakarti22/github-readme-stats) 
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti22&layout=compact"/> 
