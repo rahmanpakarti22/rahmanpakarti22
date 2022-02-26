@@ -26,4 +26,5 @@ Currently learn about mobile development, but I love learn new thing in programm
     <a href="mailto:" target="blank"><img src="https://img.shields.io/badge/Email me_-30302f?style=flat&logo=gmail" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmanpakarti22&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanpakarti22&layout=compact)](https://github.com/rahmanpakarti22/github-readme-stats)
