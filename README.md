@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/rahmanpakarti22/rahmanpakarti22/master/Cards github.png" alt="banner that says Monica Powell - Mobile Developer & UI/UX Design">
+
 
 # Hi there , I'm Auliya Rahman Pakarti!
 Currently learn about mobile development, but I love learn new thing in programming such as flutter.  
